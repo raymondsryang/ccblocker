@@ -1,4 +1,4 @@
-# Subcover —— 字幕遮挡翻译工具
+# ccblocker —— 字幕遮挡翻译工具
 
 一个简单的字幕遮挡与机器翻译悬浮窗工具，适用于视频字幕自助遮挡和一键翻译辅助。（适配 macOS，基于 PyQt5 与 Google Translate API）
 
